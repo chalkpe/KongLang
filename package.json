@@ -1,0 +1,27 @@
+{
+  "name": "konglang",
+  "version": "1.0.0",
+  "description": "The high-level esoteric programming language.",
+  "license": "MIT",
+  "main": "./kong.js",
+
+  "title": "KongLang",
+  "author": {
+    "name": "ChalkPE",
+    "url": "http://chalk.pe"
+  },
+
+  "homepage": "https://gitlab.com/ChalkPE/KongLang",
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.com/ChalkPE/KongLang.git"
+  },
+  "bugs": {
+    "url": "https://gitlab.com/ChalkPE/KongLang/issues"
+  },
+
+  "dependencies": {
+    "chalk": "^1.1.1",
+    "readline-sync": "^1.4.1"
+  }
+}
