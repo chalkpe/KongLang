@@ -21,7 +21,7 @@
   },
 
   "dependencies": {
-    "chalk": "^1.1.1",
+    "chalk": "^2.0.0",
     "readline-sync": "^1.4.1"
   }
 }
